@@ -2,8 +2,6 @@
 layout: post
 title: "offsetof C macro
 categories: c
-author:
-- Valery Ivanov
 published: true
 ---
 
