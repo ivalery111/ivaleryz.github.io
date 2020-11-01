@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "offsetof C macro
+title: "offsetof C macro"
 categories: c
 published: true
 ---
