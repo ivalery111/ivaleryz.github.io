@@ -22,7 +22,7 @@ Expected memory footprint of human structure is:
 | :------------- | :----------: | -----------: |
 | name  | 14 | 0  |
 | age   | 4  | 14 |
-| age   | 4  | 18 |
+| id    | 4  | 18 |
 
 But this suggestion is incorrect because of padding. The padding is not a goal of this note, please google it :)  
 The correct version of human structure is:
@@ -37,11 +37,12 @@ struct human {
 ```
 
 so let's correct the table:  
+
 | Field       | Size     | Offset     |
 | :------------- | :----------: | -----------: |
 | name  | 14 + 2 | 0  |
 | age   | 4      | 16 |
-| age   | 4      | 20 |
+| id    | 4      | 20 |
 
 The macro of getting the field offset is:
 
