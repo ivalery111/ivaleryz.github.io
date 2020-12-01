@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "offsetof C macro"
-categories: c
+tags: C
 published: true
 ---
 
