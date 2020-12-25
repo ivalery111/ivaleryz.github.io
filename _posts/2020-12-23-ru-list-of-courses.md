@@ -5,6 +5,8 @@ tags: misc
 published: true
 ---
 
+Список курсов которые я изучил/изучаю/планирую изучить. Также буду добавлять ссылки на полезные статьи/видео/книги.
+
 ## Завершенные:  
 - [X] [Algorithmic Toolbox](https://www.coursera.org/learn/algorithmic-toolbox)  
 - [X] [Data Structure](https://www.coursera.org/learn/data-structures?specialization=data-structures-algorithms)  
@@ -39,3 +41,20 @@ published: true
 ## Полезные видео/статьи/...:
 * [Системное программирование - Лаборатория Tarantool](https://www.youtube.com/playlist?list=PLrCZzMib1e9pOdLmE2qtMgL3QMEIrxyu7)  
 * [Программирование на Rust (весна 2019)](https://www.youtube.com/playlist?list=PLlb7e2G7aSpTfhiECYNI2EZ1uAluUqE_e)  
+
+## Полезные, на мой взгляд, книги/ссылки:
+* C:
+  * Understanding and Using C Pointers
+  * Modern C
+  * [SEI CERT C Coding Standard](https://wiki.sei.cmu.edu/confluence/display/c/SEI+CERT+C+Coding+Standard)
+* C++:
+  * The C++ Programming Language
+  * Effective Modern C++
+  * C++17 STL Cookbook
+  * More Exceptional C++
+  * [SEI CERT C++ Coding Standard](https://wiki.sei.cmu.edu/confluence/pages/viewpage.action?pageId=88046682)
+* Software Development:
+  * Совершенный код
+* Design Patterns:
+  * Head First Design Patterns
+  
