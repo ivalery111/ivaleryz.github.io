@@ -53,8 +53,13 @@ published: true
   * [C++17 STL Cookbook](https://www.amazon.com/STL-Cookbook-enhancements-programming-expressions-ebook/dp/B01MTSADN8/ref=sr_1_1?dchild=1&keywords=C%2B%2B17+STL+Cookbook&qid=1608902754&sr=8-1)
   * [More Exceptional C++](https://www.amazon.com/More-Exceptional-Engineering-Programming-Solutions/dp/020170434X/ref=sr_1_1?dchild=1&keywords=More+Exceptional+C%2B%2B&qid=1608903333&sr=8-1)
   * [SEI CERT C++ Coding Standard](https://wiki.sei.cmu.edu/confluence/pages/viewpage.action?pageId=88046682)
+* Linux Dev:
+  * [Linux System Programming](https://www.amazon.com/Linux-System-Programming-Talking-Directly/dp/1449339530/ref=sr_1_4?dchild=1&keywords=linux+kernel&qid=1608903631&sr=8-4)
+  * [Linux Kernel Development](https://www.amazon.com/Linux-Kernel-Development-Robert-Love/dp/0672329468/ref=sr_1_1?dchild=1&keywords=linux+kernel&qid=1608903631&sr=8-1)
 * Software Development:
   * Совершенный код
+  * [Clean Architecture](https://www.amazon.com/Clean-Architecture-Craftsmans-Software-Structure/dp/0134494164/ref=sr_1_1?crid=29B68XVBSNYO6&dchild=1&keywords=clean+architecture&qid=1608903458&sprefix=clean+ar%2Caps%2C266&sr=8-1)
+  * [Software Architecture Patterns](https://get.oreilly.com/ind_software-architecture-patterns.html)
 * Design Patterns:
   * Head First Design Patterns
   
