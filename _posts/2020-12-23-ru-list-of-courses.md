@@ -47,6 +47,7 @@ published: true
   * [Understanding and Using C Pointers](https://www.amazon.com/Understanding-Using-Pointers-Techniques-Management/dp/1449344186/ref=sr_1_1?dchild=1&keywords=Understanding+and+Using+C+Pointers&qid=1608902604&sr=8-1)
   * [Modern C](https://www.manning.com/books/modern-c)
   * [SEI CERT C Coding Standard](https://wiki.sei.cmu.edu/confluence/display/c/SEI+CERT+C+Coding+Standard)
+  * [Руководство по микропрограммному обеспечению](https://avidreaders.ru/book/rukovodstvo-po-mikroprogrammnomu-obespecheniyu.html)
 * C++:
   * [The C++ Programming Language](https://www.amazon.com/C-Programming-Language-4th/dp/0321563840/ref=sr_1_1?crid=1FSKC42AOKYWH&dchild=1&keywords=the+c%2B%2B+programming+language&qid=1608902677&sprefix=the+c%2B%2B+pro%2Caps%2C263&sr=8-1)
   * [Effective Modern C++](https://www.amazon.com/Effective-Modern-Specific-Ways-Improve/dp/1491903996/ref=sr_1_1?dchild=1&keywords=Effective+Modern+C%2B%2B&qid=1608902704&sr=8-1)
