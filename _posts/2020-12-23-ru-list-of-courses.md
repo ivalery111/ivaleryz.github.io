@@ -23,6 +23,7 @@ published: true
 - [X] [Разработка модулей ядра Linux](https://stepik.org/course/2051/syllabus)  
 
 ## В Процессе:  
+- [~] [Operating System Project - Develop Heap Memory Manager in C](https://www.udemy.com/course/os-project-lmm/) | [GitHub](https://github.com/ivalery111/linux-memory-manager)
 - [ ] [Основы разработки на С++: коричневый пояс](https://www.coursera.org/learn/c-plus-plus-brown?specialization=c-plus-plus-modern-development)  
 - [ ] [Основы разработки на С++: черный пояс](https://www.coursera.org/learn/c-plus-plus-black)  
 - [ ] [Part A - Networking Projects - Implement TCP/IP Stack in C](https://www.udemy.com/course/tcpipstack/)  
@@ -32,7 +33,6 @@ published: true
 
 
 ## Изучить:  
-- [ ] [Operating System Project - Develop Heap Memory Manager in C](https://www.udemy.com/course/os-project-lmm/)  
 - [ ] [x86 Assembly Language Programming From Ground Up](https://www.udemy.com/course/x86-assembly-programming-from-ground-uptm/)  
 - [ ] [ARM Assembly Language From Ground Up™ 1](https://www.udemy.com/course/arm-assembly-programming/)  
 - [ ] [ARM Assembly Language From Ground Up™ 2](https://www.udemy.com/course/arm-assembly-language-from-ground-uptm-2/)  
