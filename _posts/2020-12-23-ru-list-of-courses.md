@@ -63,4 +63,7 @@ published: true
   * [Software Architecture Patterns](https://get.oreilly.com/ind_software-architecture-patterns.html)
 * Design Patterns:
   * Head First Design Patterns
-  
+* Secure Programming:
+  * [Secure Programming Cookbook for C and C++: Recipes for Cryptography, Authentication, Input Validation & More](https://www.amazon.com/Secure-Programming-Cookbook-Cryptography-Authentication/dp/0596003943)
+* Cryptography:
+  * Прикладная криптография: Протоколы, алгоритмы, исходные тексты на языке Си
