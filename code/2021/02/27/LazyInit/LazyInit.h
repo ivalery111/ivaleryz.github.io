@@ -19,4 +19,20 @@ private:
   mutable optional<T> value_;
 };
 
+template <typename T>
+LazyInit<T>::LazyInit(function<T()> init) : init_(std::move(init)) {}
+
+template <typename T>
+bool LazyInit<T>::HasValue() const {
+  return value_.has_value();
+}
+
+template <typename T>
+const T& LazyInit<T>::Get() const{
+  if(!value_){
+    value_ = init_();
+  }
+  return *value_;
+}
+
 } // namespace lazy
