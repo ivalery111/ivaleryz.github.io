@@ -38,7 +38,7 @@ bool LazyInit<T>::HasValue() const {
   return value_.has_value();
 }
 ```
-}
+}  
 {  
 This snippet is more interesting. The method `Get` defined as `const`, but, since the `value_` defined as `mutable` We can change this variable in `const` method.  
 Remove `const` is BAD idea. `const` protecting us from random changes. When We set variable as `mutable` We know what We are doing (I hope :) ), We have control on changes, so, should use `mutable` instead of removing `const`.
@@ -53,3 +53,6 @@ const T& LazyInit<T>::Get() const{
 }
 ```
 }
+---
+## References:
+* [Code + Tests](https://github.com/ivalery111/ivaleryz.github.io/tree/master/code/2021/02/27/LazyInit)
