@@ -14,6 +14,7 @@ For example, there is an object that connecting to DB. Assume that connection is
 ### Interface:
 
 ```cpp
+// LazyInit.h
 1. template <typename T> class LazyInit {
 2. public:
 3.   explicit LazyInit(function<T()> init);
@@ -29,4 +30,33 @@ Line 3: Constructor gets the initialization function which will be invoked in fi
 Line 5: Method `HasValue` returns `true` if the object was initialized, which means method `Get` was invoked a minimum of one time.  
 Line 6: Method `Get` responsible to initialize the object. 
 Line 8: Private member to store the initialized function.
-Line 9: Private member to store the value. Make it `optional` allow us to verify if the value was initialized or not. (nice option :) )
+Line 9: Private member to store the value. Make it `optional` allow us to verify if the value was initialized or not. (nice option :) ) `Mutable` allow us to set this variable in `const` method.
+
+### Implementation:
+{  
+Using of benefits of `optional` type. With `optional`'s `has_value()` method verify if the value was initialized.
+
+```cpp
+// LazyInit.h
+template <typename T> 
+bool LazyInit<T>::HasValue() const {
+  return value_.has_value();
+}
+```
+}
+
+{  
+This snippet is more interesting. The method `Get` defined as `const`, but, since the `value_` defined as `mutable` We can change this variable in `const` method.  
+Remove `const` is BAD idea. `const` protecting us from random changes. When We set variable as `mutable` We know what We are doing (I hope :) ), We have control on changes, so, should use `mutable` instead of removing `const`.
+
+```cpp
+// LazyInit.h
+template <typename T>
+const T& LazyInit<T>::Get() const{
+  if(!value_){
+    value_ = init_();
+  }
+  return *value_;
+}
+```
+}
