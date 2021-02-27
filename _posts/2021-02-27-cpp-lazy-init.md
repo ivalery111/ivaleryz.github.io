@@ -22,7 +22,7 @@ For example, there is an object that connecting to DB. Assume that connection is
 6.   const T& Get() const;
 7. private:
 8.   function<T()> init_;
-9.   optional<T> value_;
+9.   mutable optional<T> value_;
 10.};
 ```
 Line 3: Constructor gets the initialization function which will be invoked in first call of `Get` method.  
