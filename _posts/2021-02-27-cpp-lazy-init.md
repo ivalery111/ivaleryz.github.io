@@ -20,8 +20,13 @@ For example, there is an object that connecting to DB. Assume that connection is
 4.
 5.   bool HasValue() const;
 6.   const T& Get() const;
-7. };
+7. private:
+8.   function<T()> init_;
+9.   optional<T> value_;
+10.};
 ```
 Line 3: Constructor gets the initialization function which will be invoked in first call of `Get` method.  
 Line 5: Method `HasValue` returns `true` if the object was initialized, which means method `Get` was invoked a minimum of one time.  
 Line 6: Method `Get` responsible to initialize the object. 
+Line 8: Private member to store the initialized function.
+Line 9: Private member to store the value. Make it `optional` allow us to verify if the value was initialized or not. (nice option :) )
