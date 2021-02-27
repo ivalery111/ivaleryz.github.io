@@ -16,8 +16,7 @@ public:
 
 private:
     function<T()> init_;
-    optional<T> value_;
-
+  mutable optional<T> value_;
 };
 
 } // namespace lazy
