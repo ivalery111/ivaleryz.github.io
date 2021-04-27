@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Your Initial Project TO-DO List"
+title: "Draft: Your Initial Project TO-DO List"
 tags: misc
 published: true
 ---
