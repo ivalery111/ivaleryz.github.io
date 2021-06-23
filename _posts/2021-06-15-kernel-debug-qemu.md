@@ -2,7 +2,7 @@
 layout: post
 title: "Draft: Bi-Direction pipe with socketpair"
 tags: misc
-published: true
+published: false
 ---
 ## Intro
 Hello fr13nd,  
