@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Draft: Bi-Direction pipe with socketpair"
+title: "Bi-Direction pipe with socketpair"
 tags: misc
 published: true
 ---
