@@ -75,3 +75,13 @@ int main(void) {
 }
 
 ```
+### Compilation
+```bash
+$ gcc say_hello.c -o hello
+$ gcc main.c -o main
+```
+### Running
+```bash
+$./main
+```
+The `main` application sends `zzz` string to the `hello` application and prints the response: `hello zzz`  
