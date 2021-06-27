@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Использование Gcc/Clang docker в разработке"
+title: "Использование GCC/Clang Docker в разработке"
 tags: misc
 published: true
 ---
