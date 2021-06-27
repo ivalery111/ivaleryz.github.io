@@ -1,13 +1,13 @@
 ---
 layout: post
-title: "Список курсов"
+title: "The list of Courses"
 tags: misc
 published: true
 ---
 
-Список курсов которые я изучил/изучаю/планирую изучить. Также буду добавлять ссылки на полезные статьи/видео/книги.
+This is the list of courses that I completed, currently learning, or will be learning.
 
-## Завершенные:  
+## Completed:  
 - [X] [Algorithmic Toolbox](https://www.coursera.org/learn/algorithmic-toolbox)  
 - [X] [Data Structure](https://www.coursera.org/learn/data-structures?specialization=data-structures-algorithms)  
 - [X] [Основы разработки на C++: белый пояс](https://www.coursera.org/learn/c-plus-plus-white/home/welcome)  
@@ -17,13 +17,11 @@ published: true
 - [X] [Linux Inter Process Communication (IPC) from Scratch in C](https://www.udemy.com/course/linuxipc/)  
 - [X] [Linux Kernel Programming - IPC b/w Userspace and KernelSpace](https://www.udemy.com/course/netlinksockets/)  
 - [X] [Build Remote Procedure Calls (RPC) - from scratch in C](https://www.udemy.com/course/linuxrpc/)  
-
-## Прослушал:
 - [X] [Операционные системы](https://stepik.org/course/1780/syllabus)  
 - [X] [Разработка модулей ядра Linux](https://stepik.org/course/2051/syllabus)  
 
-## В Процессе:  
-- [~] [Operating System Project - Develop Heap Memory Manager in C](https://www.udemy.com/course/os-project-lmm/) | [GitHub](https://github.com/ivalery111/linux-memory-manager)
+## In progress:  
+- [ ] [Operating System Project - Develop Heap Memory Manager in C](https://www.udemy.com/course/os-project-lmm/) | [GitHub](https://github.com/ivalery111/linux-memory-manager)
 - [ ] [Основы разработки на С++: коричневый пояс](https://www.coursera.org/learn/c-plus-plus-brown?specialization=c-plus-plus-modern-development)  
 - [ ] [Основы разработки на С++: черный пояс](https://www.coursera.org/learn/c-plus-plus-black)  
 - [ ] [Part A - Networking Projects - Implement TCP/IP Stack in C](https://www.udemy.com/course/tcpipstack/)  
@@ -32,17 +30,17 @@ published: true
 - [ ] [Master Class - Multithreading & Thread Synchronization in C](https://www.udemy.com/course/multithreading_parta/)  
 
 
-## Изучить:  
+## Would like to learn in future:  
 - [ ] [x86 Assembly Language Programming From Ground Up](https://www.udemy.com/course/x86-assembly-programming-from-ground-uptm/)  
 - [ ] [ARM Assembly Language From Ground Up™ 1](https://www.udemy.com/course/arm-assembly-programming/)  
 - [ ] [ARM Assembly Language From Ground Up™ 2](https://www.udemy.com/course/arm-assembly-language-from-ground-uptm-2/)  
 - [ ] [Алгоритмический фундамент программиста](https://stepik.org/course/62940/syllabus)  
 
-## Полезные видео/статьи/...:
+## Useful video/articles/...:
 * [Системное программирование - Лаборатория Tarantool](https://www.youtube.com/playlist?list=PLrCZzMib1e9pOdLmE2qtMgL3QMEIrxyu7)  
 * [Программирование на Rust (весна 2019)](https://www.youtube.com/playlist?list=PLlb7e2G7aSpTfhiECYNI2EZ1uAluUqE_e)  
 
-## Полезные, на мой взгляд, книги/ссылки:
+## Useful books::
 * C:
   * [Understanding and Using C Pointers](https://www.amazon.com/Understanding-Using-Pointers-Techniques-Management/dp/1449344186/ref=sr_1_1?dchild=1&keywords=Understanding+and+Using+C+Pointers&qid=1608902604&sr=8-1)
   * [Modern C](https://www.manning.com/books/modern-c)
