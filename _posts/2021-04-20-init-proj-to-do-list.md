@@ -2,7 +2,7 @@
 layout: post
 title: "Draft: Your Initial Project TO-DO List"
 tags: misc
-published: true
+published: false
 ---
 
 Целью данного To-Do List'а является желание сэкономить время в будущем и произвести привентивные меры для обхода "граблей".
