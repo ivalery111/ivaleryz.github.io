@@ -20,4 +20,4 @@ The list of my contributions to an Open-Source projects:
   * [crtools: improve error handling on signal setting](https://github.com/checkpoint-restore/criu/pull/1512)  
 
 * [Conan Center Index](https://github.com/conan-io/conan-center-index)
-  * add libnet/1.2](https://github.com/conan-io/conan-center-index/pull/5977)  
+  * [add libnet/1.2](https://github.com/conan-io/conan-center-index/pull/5977)  
