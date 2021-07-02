@@ -5,7 +5,7 @@ tags: misc
 published: true
 ---
 
-The list of my contributions to an Open-Source projects:
+List of my contributions to an Open-Source projects:
 * [Linux](https://github.com/torvalds/linux)
   * [staging: octeon: fix missing a blank line after declaration](https://lore.kernel.org/patchwork/patch/1150495/)  
 
