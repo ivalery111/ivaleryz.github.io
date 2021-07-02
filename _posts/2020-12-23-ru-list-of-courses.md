@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The list of Courses"
+title: "List of Courses"
 tags: misc
 published: true
 ---
@@ -21,7 +21,7 @@ This is the list of courses that I completed, currently learning, or will be lea
 - [X] [Разработка модулей ядра Linux](https://stepik.org/course/2051/syllabus)  
 
 ## In progress:  
-- [ ] [Operating System Project - Develop Heap Memory Manager in C](https://www.udemy.com/course/os-project-lmm/) | [GitHub](https://github.com/ivalery111/linux-memory-manager)
+- [ ] [Operating System Project - Develop Heap Memory Manager in C](https://www.udemy.com/course/os-project-lmm/)  
 - [ ] [Основы разработки на С++: коричневый пояс](https://www.coursera.org/learn/c-plus-plus-brown?specialization=c-plus-plus-modern-development)  
 - [ ] [Основы разработки на С++: черный пояс](https://www.coursera.org/learn/c-plus-plus-black)  
 - [ ] [Part A - Networking Projects - Implement TCP/IP Stack in C](https://www.udemy.com/course/tcpipstack/)  
