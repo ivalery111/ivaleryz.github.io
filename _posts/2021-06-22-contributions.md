@@ -14,7 +14,7 @@ List of my contributions to an Open-Source projects:
   * [Fix unused parameter warnings](https://github.com/libnet/libnet/pull/122)
   * [Fix malloc return value checking; Fix potential memory leak](https://github.com/libnet/libnet/pull/123)
   * [Fix potential name conflict with cpp keyword 'new'](https://github.com/libnet/libnet/pull/124)
-  * [[OPEN] Add lldp](https://github.com/libnet/libnet/pull/125)  
+  * [Add lldp](https://github.com/libnet/libnet/pull/125)  
 
 * [CRIU (Checkpoint and Restore in Userspace)](https://github.com/checkpoint-restore/criu)
   * [crtools: improve error handling on signal setting](https://github.com/checkpoint-restore/criu/pull/1512)  
